@@ -1,0 +1,212 @@
+/* screen - index */
+
+.index {
+  align-items: center;
+  background-color: var(--background-off-white);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 3865px;
+  overflow: hidden;
+  width: 1454px;
+}
+
+.index .cards-group {
+  align-items: flex-end;
+  display: flex;
+  height: 405px;
+  margin-left: 0.12px;
+  margin-top: 23px;
+  min-width: 1298px;
+}
+
+.index .overlap-group {
+  align-items: flex-end;
+  background-color: #d61355bf;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  margin-bottom: 0;
+  min-height: 403px;
+  width: 355px;
+}
+
+.index .overlap-group2 {
+  align-self: flex-start;
+  height: 403px;
+  margin-left: 114px;
+  position: relative;
+  width: 356px;
+}
+
+.index .cropped-star-orange {
+  left: 123px;
+  top: 175px;
+}
+
+.index .overlap-group3 {
+  align-items: flex-end;
+  background-color: #fce22a;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  margin-bottom: 0.02px;
+  margin-left: 118px;
+  min-height: 403px;
+  width: 355px;
+}
+
+.index .family {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 19.0px;
+  margin-top: 38px;
+  min-height: 53px;
+  text-align: center;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.index .overlap-group-1 {
+  height: 289px;
+  margin-right: -0.06px;
+  position: relative;
+  width: 311px;
+}
+
+.index .cropped-star-yellow {
+  left: 78px;
+  top: 61px;
+}
+
+.index .overlap-group4 {
+  height: 1141px;
+  margin-left: 2.0px;
+  margin-top: 117px;
+  position: relative;
+  width: 1456px;
+}
+
+.index .time-sensitive-frame {
+  align-items: flex-end;
+  border-radius: 24.94px;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  height: 402px;
+  left: 245px;
+  overflow: hidden;
+  padding: 38.0px 8px;
+  position: absolute;
+  top: 720px;
+  width: 435px;
+}
+
+.index .overlap-group1-1 {
+  height: 1141px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1454px;
+}
+
+.index .good-morning-poppy-image {
+  height: 654px;
+  left: 902px;
+  position: absolute;
+  top: 487px;
+  width: 350px;
+}
+
+.index .joy-jar-logo {
+  background-image: url(../img/stars.png);
+  background-size: 100% 100%;
+  height: 619px;
+  left: 217px;
+  position: absolute;
+  top: 0;
+  width: 273px;
+}
+
+.index .overlap-group5 {
+  height: 1084px;
+  margin-left: 4.0px;
+  margin-top: 50px;
+  position: relative;
+  width: 1458px;
+}
+
+.index .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 0;
+  min-height: 500px;
+  padding: 127px 282px;
+  position: absolute;
+  top: 0;
+  width: 1454px;
+}
+
+.index .pizza-image {
+  height: 110px;
+  margin-right: 137px;
+  width: 110px;
+}
+
+.index .personalize-rewards {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 24px;
+  min-height: 35px;
+  text-align: center;
+  white-space: nowrap;
+  width: 336px;
+}
+
+.index .earn-stars-section {
+  align-items: center;
+  display: flex;
+  gap: 194px;
+  height: 693px;
+  left: 226px;
+  min-width: 1036px;
+  position: absolute;
+  top: 391px;
+}
+
+.index .star-emoji {
+  height: 81px;
+  margin-left: 0;
+  width: 88px;
+}
+
+.index .final-presentation-1 {
+  height: 488px;
+  left: 308px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 312px;
+}
+
+.index .icon-twitter {
+  height: 42px;
+  margin-bottom: 20.97px;
+}
+
+.index .icon {
+  height: 52px;
+  margin-bottom: 24.22px;
+}
+
+.index .icon-1 {
+  margin-left: 26px;
+  width: 52px;
+}
