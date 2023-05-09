@@ -1,0 +1,35 @@
+:root { 
+  --background-off-white: #f9f5f2;
+  --black: #000000;
+ 
+  --font-size-l: 30px;
+  --font-size-m: 24px;
+  --font-size-xl: 45px;
+  --font-size-xxl: 55px;
+ 
+  --font-family-abeezee: "ABeeZee", Helvetica;
+  --font-family-happy_monkey: "Happy Monkey", Helvetica;
+}
+.abeezee-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abeezee-normal-black-45px {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abeezee-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
