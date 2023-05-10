@@ -1,0 +1,406 @@
+/* screen - mobile-index */
+
+.mobile-index {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 4716px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.mobile-index .mobile-header-1 {
+  height: 491px;
+  margin-top: 17px;
+  object-fit: cover;
+  width: 390px;
+}
+
+.mobile-index .cards-group {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 25px;
+  min-height: 1257px;
+  width: 358px;
+}
+
+.mobile-index .overlap-group {
+  align-items: flex-end;
+  background-color: #d61355bf;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  margin-left: 3px;
+  min-height: 403px;
+  width: 355px;
+}
+
+.mobile-index .title {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 22.88px;
+  margin-top: 35px;
+  min-height: 53px;
+  text-align: center;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.mobile-index .overlap-group1 {
+  height: 288px;
+  position: relative;
+  width: 300px;
+}
+
+.mobile-index .cropped-star-magenta {
+  left: 67px;
+  top: 60px;
+}
+
+.mobile-index .chores-help-your-chi {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 260px;
+}
+
+.mobile-index .overlap-group3 {
+  height: 403px;
+  margin-left: 2px;
+  position: relative;
+  width: 356px;
+}
+
+.mobile-index .rewards {
+  background-color: #f94a29bf;
+  border-radius: 20px;
+  height: 403px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 355px;
+}
+
+.mobile-index .cropped-star-orange {
+  left: 123px;
+  top: 175px;
+}
+
+.mobile-index .rewards-1 {
+  left: 93px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.mobile-index .star-charts-provide {
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 115px;
+  width: 263px;
+}
+
+.mobile-index .overlap-group2 {
+  align-items: flex-end;
+  background-color: #fce22a;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  min-height: 403px;
+  width: 355px;
+}
+
+.mobile-index .family {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 19.0px;
+  margin-top: 38px;
+  min-height: 53px;
+  text-align: center;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.mobile-index .overlap-group-1 {
+  height: 289px;
+  margin-right: -0.06px;
+  position: relative;
+  width: 311px;
+}
+
+.mobile-index .cropped-star-yellow {
+  left: 78px;
+  top: 61px;
+}
+
+.mobile-index .work-together-as-a-t {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 271px;
+}
+
+.mobile-index .start-earning-stars-today {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 44px;
+  min-height: 28px;
+  min-width: 293px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.mobile-index .joy-jar-logo {
+  background-image: url(../img/stars.png);
+  background-size: 100% 100%;
+  height: 399px;
+  margin-right: 10.0px;
+  margin-top: 26px;
+  width: 176px;
+}
+
+.mobile-index .app-download-images {
+  height: 185px;
+  margin-left: 1.0px;
+  margin-top: 25px;
+  object-fit: cover;
+  width: 307px;
+}
+
+.mobile-index .time-sensitive-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 3.56px;
+  margin-top: 37px;
+  min-height: 697px;
+  width: 304px;
+}
+
+.mobile-index .time-sensitive-header {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 3.37px;
+  min-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.mobile-index .overlap-group4 {
+  height: 159px;
+  margin-right: 4.0px;
+  margin-top: 14px;
+  position: relative;
+  width: 300px;
+}
+
+.mobile-index .time-sensitive-copy {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 300px;
+}
+
+.mobile-index .overlap-group4-item {
+  height: 64px;
+  left: 127px;
+  position: absolute;
+  top: 92px;
+  width: 46px;
+}
+
+.mobile-index .vector {
+  height: 48px;
+  left: 130px;
+  position: absolute;
+  top: 108px;
+  width: 41px;
+}
+
+.mobile-index .vector-1 {
+  top: 89px;
+}
+
+.mobile-index .vector-2 {
+  top: 152px;
+}
+
+.mobile-index .good-morning-poppy-image {
+  height: 449px;
+  margin-right: 3.05px;
+  margin-top: 51px;
+  width: 250px;
+}
+
+.mobile-index .rewards-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 3.39px;
+  margin-top: 14px;
+  min-height: 700px;
+  width: 335px;
+}
+
+.mobile-index .pizza-image {
+  height: 95px;
+  margin-right: 4.71px;
+  width: 95px;
+}
+
+.mobile-index .personalize-rewards {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.18px;
+  min-height: 31px;
+  text-align: center;
+  width: 289px;
+}
+
+.mobile-index .personalize-rewards-copy {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  height: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  text-align: center;
+  width: 331px;
+}
+
+.mobile-index .final-presentation-1 {
+  height: 481px;
+  margin-left: 8.61px;
+  object-fit: cover;
+  width: 312px;
+}
+
+.mobile-index .group-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-left: 7.81px;
+  margin-top: 14px;
+  min-height: 636px;
+  width: 340px;
+}
+
+.mobile-index .earn-stars-header {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: 21.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.77px;
+  min-height: 25px;
+  text-align: center;
+  white-space: nowrap;
+  width: 237px;
+}
+
+.mobile-index .earn-stars-copy {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  height: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 4.0px;
+  text-align: center;
+  width: 336px;
+}
+
+.mobile-index .earn-stars-section {
+  background-image: url(../img/congratulations-poppy-image@2x.png);
+  background-size: 100% 100%;
+  height: 487px;
+  margin-right: 3.66px;
+  width: 254px;
+}
+
+.mobile-index .overlap-group5 {
+  align-items: flex-start;
+  background-color: #30e3df;
+  display: flex;
+  gap: 12px;
+  height: 121px;
+  margin-left: 2.0px;
+  min-width: 392px;
+  padding: 0 45px;
+}
+
+.mobile-index .icon-star {
+  height: 88px;
+  width: 92px;
+}
+
+.mobile-index .footer-text {
+  color: var(--black);
+  font-family: var(--font-family-happy_monkey);
+  font-size: 35.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 27px;
+  min-height: 4px;
+  text-align: center;
+  white-space: nowrap;
+  width: 130px;
+}
+
+.mobile-index .cropped-star {
+  height: 228px;
+  position: absolute;
+  width: 233px;
+}
+
+.mobile-index .vector-3 {
+  height: 7px;
+  left: 122px;
+  position: absolute;
+  width: 55px;
+}
