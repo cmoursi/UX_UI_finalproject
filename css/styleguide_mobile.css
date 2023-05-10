@@ -1,0 +1,29 @@
+:root { 
+  --black: #000000;
+ 
+  --font-size-l: 25.8px;
+  --font-size-m: 24px;
+  --font-size-s: 21.9px;
+  --font-size-xl: 45px;
+  --font-size-xs: 20.7px;
+  --font-size-xxs: 17.5px;
+  --font-size-xxxs: 16.9px;
+ 
+  --font-family-abeezee: "ABeeZee", Helvetica;
+  --font-family-happy_monkey: "Happy Monkey", Helvetica;
+}
+.abeezee-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.abeezee-normal-black-45px {
+  color: var(--black);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
